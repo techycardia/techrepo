@@ -4,7 +4,7 @@ public static void main(String [] args)
 {
 for(int i =0 ;i <10 ;i ++)
 {
-System.out.println("running on jenkins");
+System.out.println("running on jenkins on git now");
 }
 }
 }
