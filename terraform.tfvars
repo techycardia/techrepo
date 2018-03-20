@@ -1,0 +1,5 @@
+region          = "asia-south1-b"
+gcp_project     = "google cloud Iam Service account"
+credentials     = "credentials.json"
+name            = "dev"
+subnet_cidr     = "10.10.0.0/24"
